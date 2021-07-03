@@ -1,0 +1,39 @@
+package usuario;
+import java.util.Scanner;
+import java.util.ArrayList;
+public class cadastroUsuario {
+	public static void main(String[]args){
+
+		Scanner scanner = new Scanner(System.in);
+		ArrayList  usuario = new ArrayList();
+
+		usuario2 usar = new usuario2();
+
+		int fun = 0;
+
+		System.out.println("Digite 1 para cadastrar o usuario ou 0 para sair !");
+		
+
+		while(fun !=0){
+
+			System.out.println("Bem vindo ao sistema de cadastro");
+			System.out.println("Digite o nome de usuario");
+	
+			
+			System.out.println("Digite o sobrenome do usuario");
+			
+
+			System.out.println("Digite o RG");
+			
+
+			System.out.println("Digite o CPF");
+			
+			
+			System.out.println("Crie um Login");
+			
+			
+			System.out.println("Crie uma Senha");
+			
+		}
+}
+}
