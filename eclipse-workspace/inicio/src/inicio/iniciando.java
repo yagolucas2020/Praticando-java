@@ -1,5 +1,0 @@
-package inicio;
-
-class iniciando {
-
-}
